@@ -1,0 +1,17 @@
+{
+  "name": "link-shortener",
+  "version": "1.0.0",
+  "description": "NodeJS / ExpressJS link shortener utilizing MongoDB",
+  "main": "shortener.js",
+  "repository": "https://github.com/RauffIslam/link-shortener.git",
+  "author": "Rauf",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7",
+    "morgan": "^1.9.1",
+    "randomstring": "^1.1.5"
+  }
+}
